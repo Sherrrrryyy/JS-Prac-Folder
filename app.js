@@ -3596,6 +3596,28 @@
 
 
 
+// var arr = [[],[],[],[],[]]
+// console.log(arr);
+
+
+
+// var multiArr = [[1,2,3],[4,5,6],[7,8,9],[10,11,12]]
+// console.log(multiArr);
+
+
+// for (var i = 1; i <= 10; i++) {
+//     console.log(i);
+// }
+
+// var userNumber = +prompt("Enter any table number")
+// var lengthOfTable = +prompt("Enter any table length")
+
+// for (var i = 1; i <= lengthOfTable; i++) {
+//     console.log(`${userNumber} x ${i} = ${userNumber * i}`);
+// }
+
+
+
 
 
 
