@@ -3616,13 +3616,56 @@
 //     console.log(`${userNumber} x ${i} = ${userNumber * i}`);
 // }
 
+// var fruits = ["apple","banana","mango","orange",'strawberry']
+
+// for(var i = 0; i <= fruits.length; i++){
+// console.log(`Element at index is ${i} is ${fruits[i]} `);
+
+// }
+
+
+// for(var i=15; i >= 1; i--){
+// console.log(i);
+
+// }
+
+
+// for(var i =2; i < 100; i++){
+// if(i % 2 == 0){
+//     console.log(`${i} is even number`);   
+// }else{
+//     console.log(`${i} is an odd number`);
+// }
+// }
+
+// for(var i =2; i < 100; i++){
+// if(i % 2 !== 0){
+//     console.log(`${i} odd nukber`);   
+// }
+// }
+
+
+// var bakery = ["cake", "biscuit", "cookie", "pastry", "fudge"]
+
+// var user = prompt("Enter any item")
+
+// for (var i = 0; i < bakery.length; i++) {
+//     if (user === bakery[i]) {
+//         alert(`${bakery[i]} is available at index ${i} in our bakery`)
+//     }else{
+//         alert("We are sorry. " + user + " is not available in our bakery")
+//     }
+// }
 
 
 
+// var A =  [24, 53, 78, 91, 12];
+
+// var findLargest = Math.max(...A)
+
+// console.log(findLargest);
 
 
-
-
-
-
-
+// var A =  [24, 53, 78, 91, 12];
+// var findSmallest = Math.min(...A)
+// console.log(findSmallest);
