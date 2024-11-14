@@ -3661,11 +3661,91 @@
 
 // var A =  [24, 53, 78, 91, 12];
 
-// var findLargest = Math.max(...A)
+// var largest = Math.max(...A)
+// console.log(A);
 
-// console.log(findLargest);
-
+// console.log(largest);
 
 // var A =  [24, 53, 78, 91, 12];
-// var findSmallest = Math.min(...A)
-// console.log(findSmallest);
+
+// var smallest = Math.min(...A)
+// console.log(A);
+
+// console.log(smallest);
+
+// let empArr;
+
+// for (var i = 5; i <= 100; i++) {
+//     if (i % 5 == 0) {
+//         console.log(i);
+//     }
+// }
+
+
+// var fname = prompt("enter your first name")
+// var lname = prompt("enter your last name")
+
+// alert(`Welcome ${fname} ${lname} to the websitte`)
+
+
+// var fPhone = prompt('enter your favorite phone no no we dont give you any offer');
+// var maxLengthOfStringByUser = fPhone.length
+// document.write(`My favorite phone is ${fPhone} and the total number of length entered by user is ${maxLengthOfStringByUser}`)
+
+
+// var str = "Pakistani"
+// var find = str.indexOf("n")
+
+// document.write(`The first index of 'n' in the string is at position ${find}`)
+
+// var str = "Hello World"
+// var findLastIndex = str.lastIndexOf('l')
+
+// document.write(`The last index of 'l' in the string is at position ${findLastIndex}`)
+
+// var str = "Pakistani"
+// var findFirst = str.indexOf('i')
+
+// document.write(`The first index of 'i' in the string is at position ${findFirst}`)
+
+
+// var str = "Pakistani"
+
+// for(i = str; i <= str.length; i++){
+
+//     if(str[i] == 'i'){
+
+//         break
+//     }
+//     console.log("Character at index " + i + " is " + str[i])
+
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
