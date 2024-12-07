@@ -3723,6 +3723,96 @@
 
 
 
+// let city = "Islamabad"
+// var newCity = city.slice(5)
+// console.log(newCity);
+
+// var anotherCity = `Hyder${newCity}`
+// console.log(anotherCity);
+
+
+
+// for (var i = 0; i <= city.length; i++) {
+
+
+//     var newCity = city.slice(5)
+
+//     var anotherCity = `Hyder${newCity}`
+//     console.log(anotherCity);
+
+
+//     // console.log(city[i]);
+
+// }
+
+
+// var para = "Ali and Sami are best friends. They play cricket and football together";
+// var newPara = para.replaceAll("and","&")
+// console.log(newPara);
+
+
+
+// var str = "472";
+// console.log(`value ${str} type of ${typeof str}`);
+
+// var actualStr = parseInt(str)
+// console.log(`value ${actualStr} type of ${typeof actualStr}`);
+
+
+// var user = prompt('Enter any thing')
+// var userInp = user.toUpperCase()
+
+// console.log(userInp);
+
+
+// var user = prompt('Enter any thing')
+// var userInp = user.toLowerCase()
+
+// console.log(userInp);
+
+
+var user = prompt('Enter any thing')
+var firstCap = user.slice()
+
+// var firstCap = user.charAt(0).toUpperCase()
+// console.log(firstCap);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
