@@ -3771,20 +3771,71 @@
 // console.log(userInp);
 
 
-var user = prompt('Enter any thing')
-var firstCap = user.slice()
+// var user = prompt('Enter any thing')
+// var firstCap = user.slice()
 
 // var firstCap = user.charAt(0).toUpperCase()
 // console.log(firstCap);
 
+// var posNumber = +prompt("Enter any positive number")
+
+
+// if(posNumber > 0 ){
+// console.log(`${posNumber} is positive number`);
+// }else{
+// console.log(`${posNumber} is neagtive number`);
+
+// }
+
+// var num = Math.round(2552.32)
+// console.log(num);
+
+// var num = Math.floor(2.3)
+// console.log(num);
+
+// var num = Math.ceil(44.22)
+// console.log(num);
+
+
+// var negNumber = +prompt("Enter nagative number");
+// var num1 = Math.round(negNumber)
+// var num2 = Math.floor(negNumber)
+// var num3 = Math.ceil(negNumber)
+// console.log(num1);
+// console.log(num2);
+// console.log(num3);
 
 
 
+// var num = -5
+// var nums = Math.abs(num)
+// console.log(num);
+// console.log(nums);
+
+
+// var random = (Math.random() * 11)
+// var singleValue = Math.floor(random)
+// console.log(random);
+// console.log(singleValue,"this is a single value")
 
 
 
+// var random = Math.random() * 3
+// var round = Math.floor(random)
+// if(round === 1){
+// console.log(`${round} heads`);
+// }else{
+//     console.log(`${round} tails`);
+    
+// }
 
 
+// var currDate = new Date()
+// console.log(currDate);
+
+
+var currDate = new Date()
+console.log(currDate);
 
 
 
