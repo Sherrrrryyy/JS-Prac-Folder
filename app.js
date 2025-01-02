@@ -3826,7 +3826,7 @@
 // console.log(`${round} heads`);
 // }else{
 //     console.log(`${round} tails`);
-    
+
 // }
 
 
@@ -3834,29 +3834,86 @@
 // console.log(currDate);
 
 
-var currDate = new Date()
-console.log(currDate);
+// var currDate = new Date()
+// console.log(currDate);
+
+// let first = +prompt("enter any number")
+// let second = +prompt("enter any number")
+
+// if (first > second) {
+//     console.log(`${first} is greater than ${second}`);
+// } else if (second > first) {
+//     console.log(`${second} is greater than ${first}`);
+// } else if (first === second) {
+//     console.log("Both numbers are equal");
+// } else {
+//     console.log("hihihihihihi");
+
+// }
 
 
 
+// const number = +prompt("Enter a number")
+
+// if (number > 0) {
+//     console.log(`${number} is a positive number`);
+// } else if (number < 0) {
+//     console.log(`${number} is a negative number`);
+// } else if (number === 0) {
+//     console.log(`${number} is a zero number`);
+
+// }
+
+// const vowels = prompt("Enter any string value length should be 1")
+
+// if (vowels === "a" || vowels === "e" || vowels === "i" || vowels === "o" || vowels === "u") {
+//     console.log("true");
+
+// } else {
+//     console.log("false");
+
+// }
 
 
+// const pass = "user123";
+// const validationPass = prompt("Enter your password")
+
+// if (validationPass === "") {
+//     console.log('Please enter your password');
+// }else if(validationPass === pass){
+//     console.log("Correct! The password you entered matches the original password");
+// }else{
+//     console.log("Incorrect password");
+
+// }
+
+// var greeting;
+// var hour = 20;
+// if (hour < 18) {
+//     greeting = "Good day";
+// } else {
+//     greeting = "Good evening";
+// }
+// console.log(greeting);
 
 
+// const arr = [];
+// const strArr = ["Apple", "Banana", "Mango", "Orange", "Strawberry"]
+// const numArr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+// const bollArr = [true, false, true, false, true, false, true, false, true, false]
+// const mixArr = ["Apple", 1, true, "Banana", 2, false, "Mango", 3, true, "Orange", 4, false, "Strawberry", 5, true]
 
+// const qualification = ["SSC","HSC","BCS","BS","BCOM","MS","M.Phil","PhD"]
+// console.log(qualification);
 
+const stuArr = ["Michael", "John", "Tony"]
+const stuScore = [320, 230, 480]
 
+const totalMarks = 500
+const maxScore = Math.max(...stuScore)
+const percentage = (maxScore / totalMarks) * 100
 
-
-
-
-
-
-
-
-
-
-
+console.log(`${stuArr[0]} score is ${}`);
 
 
 
